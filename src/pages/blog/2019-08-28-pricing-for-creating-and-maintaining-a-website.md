@@ -1,12 +1,13 @@
 ---
-templateKey: 'blog-post'
-title: 'Pricing for creating and maintaining a website, explained'
+templateKey: blog-post
+title: Pricing for creating and maintaining a website, explained
 date: 2019-08-28T17:30:00.000Z
 featuredpost: false
 featuredimage: 
 tags:
   - pricing
 ---
+
 
 My plan is not to upset others in the same space as myself but to educate people in their search for someone like me.
 
