@@ -18,7 +18,7 @@ The $5 website or site maintenance is there for someone to build their portfolio
 
 Quite simply, get your name out there, even if it’s just 5 bucks, to enter this market and your golden – not really.
 
-Every person selling their services for beyond $5 is insane. Haha, just joking…or am I. These one man/woman shows or full fledged design studios selling their services for upwards of $2,500 are not crazy but are very very very very good at what they do. Now, you have already seen my price of $FREE (as of August 2019) but that doesn’t mean I’m not good and only means I’m trying to get my name out there. I may be able to price my services at $2,500 once my portfolio is built up and you can see all the glorious work done. In another post I’ll go into how I (and most everyone else out there) can build great websites very easily.
+Every person selling their services for beyond $5 is insane. Haha, just joking…or am I. These one man/woman shows or full fledged design studios selling their services for upwards of $2,500 are not crazy but are very very very very good at what they do. Now, you have already seen my price of **$FREE** (as of August 2019) but that doesn’t mean I’m not good and only means I’m trying to get my name out there . I may be able to price my services at $2,500 once my portfolio is built up and you can see all the glorious work done. In another post I’ll go into how I (and most everyone else out there) can build great websites very easily.
 
 “Why would you pay $5 and upwards to $2,500?” can also be answered like so. You (the customer) do not want to learn the technologies or have the time to tinker with a website so you will hire someone that can give you something fast.
 
@@ -46,4 +46,4 @@ I had a couple sites before this, but did not blog like this, and the pricing wa
 
 Now that I’ve seen more and done more research, I think the price point should be…I still don’t know.
 
-I’m thinking about starting at $250 for creating a website. I can probably go even lower and am up for negotiating with my customers. Website maintenance would likely be around $50/month with unlimited requests for changes. Subject to change and as of this post this stuff is still $FREE. I just want to help as many people as possible, doing something I love.
+I’m thinking about starting at $250 for creating a website. I can probably go even lower and am up for negotiating with my customers. Website maintenance would likely be around $50/month with unlimited requests for changes. Subject to change and as of this post this stuff is still **$FREE**. I just want to help as many people as possible, doing something I love.
