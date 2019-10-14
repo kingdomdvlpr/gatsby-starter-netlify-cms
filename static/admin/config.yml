@@ -1,6 +1,10 @@
+#backend:
+#  name: git-gateway
+#  branch: master
+
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: kingdomdvlpr/gatsby-starter-netlify-cms # Path to your GitHub repository
 
 media_folder: static/img
 public_folder: /img
