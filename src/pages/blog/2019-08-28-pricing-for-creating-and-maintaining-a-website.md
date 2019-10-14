@@ -1,9 +1,10 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 title: 'Pricing for creating and maintaining a website, explained'
-date: 2019-08-28T17:30:00.000Z
+date: 2019-08-28T22:30:00.000Z
+description: What's all the fuss about pricing to create websites?
 featuredpost: false
-featuredimage: 
+featuredimage: /img/sabine-peters-4iqipgautve-unsplash.jpg
 tags:
   - pricing
 ---
