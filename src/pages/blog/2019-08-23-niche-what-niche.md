@@ -1,9 +1,10 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 title: 'Niche, what niche?'
-date: 2019-08-23T17:30:00.000Z
+date: 2019-08-23T22:30:00.000Z
+description: Nice to niche you!
 featuredpost: false
-featuredimage: 
+featuredimage: /img/pawel-czerwinski-c6_ielujuxu-unsplash.jpg
 tags:
   - web developer
 ---
@@ -16,12 +17,17 @@ When you see it’s definition, it makes no sense to say “find your niche”, 
 
 >Niche defined (Webster’s)
 > 
-> 1a: a recess in a wall especially for a statue
-> b: something (such as a sheltered or private space) that resembles a recess in a wall
-> 2a: a place, employment, status, or activity for which a person or thing is best fitted “finally found her niche”
-> b: a habitat supplying the factors necessary for the existence of an organism or species
-> c: the ecological role of an organism in a community especially in regard to food consumption
-> d: a specialized market
+> **1a:** a recess in a wall especially for a statue
+>
+> **b:** something (such as a sheltered or private space) that resembles a recess in a wall
+>
+> **2a:** a place, employment, status, or activity for which a person or thing is best fitted “finally found her niche”
+>
+> **b:** a habitat supplying the factors necessary for the existence of an organism or species
+>
+> **c:** the ecological role of an organism in a community especially in regard to food consumption
+>
+> **d:** a specialized market
 
 More research on niche came up with this…
 
