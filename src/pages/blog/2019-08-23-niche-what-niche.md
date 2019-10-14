@@ -1,6 +1,6 @@
 ---
-templateKey: blog-post
-title: Niche, what niche?
+templateKey: 'blog-post'
+title: 'Niche, what niche?'
 date: 2019-08-23T17:30:00.000Z
 featuredpost: false
 featuredimage: 
