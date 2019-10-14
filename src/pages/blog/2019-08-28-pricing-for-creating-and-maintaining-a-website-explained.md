@@ -1,6 +1,6 @@
 ---
-templateKey: blog-post
-title: Pricing for creating and maintaining a website, explained
+templateKey: 'blog-post'
+title: 'Pricing for creating and maintaining a website, explained'
 date: 2019-08-28T17:30:00.000Z
 featuredpost: false
 tags:
