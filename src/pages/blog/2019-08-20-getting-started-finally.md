@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: 'Getting Started (finally!)'
 date: 2019-08-20T17:30:00.000Z
 featuredpost: true
+featuredimage: /img/flavor_wheel.jpg
 description: >-
   The Web Developer's guide to Getting Started (abridged version).
 tags:
