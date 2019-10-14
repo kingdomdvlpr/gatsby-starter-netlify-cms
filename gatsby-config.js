@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'kingdomdvlpr - developing sites for the kingdom',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'I am a Web Developer who believes in helping people build websites without the exorbitant pricing.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
