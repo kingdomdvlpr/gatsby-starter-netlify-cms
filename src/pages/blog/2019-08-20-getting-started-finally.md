@@ -1,11 +1,10 @@
 ---
-templateKey: 'blog-post'
-title: 'Getting Started (finally!)'
-date: 2019-08-20T17:30:00.000Z
+templateKey: blog-post
+title: Getting Started (finally!)
+date: 2019-08-20T22:30:00.000Z
+description: The Web Developer's guide to Getting Started (abridged version).
 featuredpost: true
-featuredimage: 
-description: >-
-  The Web Developer's guide to Getting Started (abridged version).
+featuredimage: /img/clark-tibbs-oqstl2l5oxi-unsplash.jpg
 tags:
   - startup
   - web developer
